@@ -1,0 +1,1 @@
+# SelphidComponent-podspec
