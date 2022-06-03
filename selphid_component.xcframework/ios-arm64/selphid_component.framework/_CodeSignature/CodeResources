@@ -12,6 +12,70 @@
 		<data>
 		UcTXMu+pW6gW+AaHVYKEYcgrB7w=
 		</data>
+		<key>KoreanOCRResources.bundle/Info.plist</key>
+		<data>
+		JiRT+xjC7Sd7BzbKgnOkumNSoyE=
+		</data>
+		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
+		<data>
+		6yAjFG4m90xpSmgqne5+m+vbH94=
+		</data>
+		<key>KoreanOCRResources.bundle/rpn_lstm_engine_tflite_ko_la.bincfg</key>
+		<data>
+		MtJnLAdmQSG1d64ulp4aPGEZ1EY=
+		</data>
+		<key>KoreanOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
+		<data>
+		6ny23cax5EGQNgpJKSnhJUhpxtQ=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_langid.tflite</key>
+		<data>
+		/LcQXDvm1hHXPLE3IVulrhpZePE=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.bincfg</key>
+		<data>
+		/6JbS7NQwz/Peq79BYFJUpDd3/I=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.class_lst</key>
+		<data>
+		qHDLtGTNKCI5p4o8dpcD7VLrczQ=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.conv_model</key>
+		<data>
+		Jp79zxvXUMimYItHP76CKUEiSEc=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.lstm_model</key>
+		<data>
+		eb8mPIUHVvFy/6HeFKNJdPw5NZ0=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
+		<data>
+		66UmXr+gf7XJ71vLnqjAwes9Mnw=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
+		<data>
+		68PK2+uslXMmEpqkRadeVy2t0PE=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
+		<data>
+		BQIj06B3MVer0TIFCE1lwPQqAQ8=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
+		<data>
+		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
+		<data>
+		5MmtO8fgFZsFpMhfSx6SQO3xCPc=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
+		<data>
+		fhAXDMdVrwuXF7oJd7GqC1q2Hlc=
+		</data>
+		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
+		<data>
+		zci5bAUMLsNm5zn+xMeKJmtX8pE=
+		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
 		04qE+uL2JogTBTqGpsIwQ9imyR0=
@@ -62,7 +126,7 @@
 		</data>
 		<key>Modules/selphid_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		JaTvUTXWf1wyUfQOeUoVxOh3PFo=
+		VzAcHvUrsic+uU09dZLXNQMyz1s=
 		</data>
 		<key>Modules/selphid_component.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -74,11 +138,11 @@
 		</data>
 		<key>Modules/selphid_component.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		JaTvUTXWf1wyUfQOeUoVxOh3PFo=
+		VzAcHvUrsic+uU09dZLXNQMyz1s=
 		</data>
 		<key>fphi-selphid-widget-resources-selphid-1.0.zip</key>
 		<data>
-		TE80aaYw+cM2R0ibs/Fl5zIYCBU=
+		A2X2UYYiRsWxeIwSzA8X1JrTml8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,6 +152,118 @@
 			<key>hash2</key>
 			<data>
 			FA1KaLAM6Z7zzNiUjKi6lV/FX01TiLM/5CwFa0yU+3k=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g3Y6BWOKvUWSoFd4yggNZPg3iVGQaBWry/TSsd0QP3Q=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tpvc8662Im0N94ENXq3Or7x8hAR0Vw4PyB2I0fhpsLo=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/rpn_lstm_engine_tflite_ko_la.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6HhhPeZKIGLj8ZN+CDIaPxj4XMYr/7Fo777ylo0sT6g=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_langid.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VHEmDnRX+3F/+Tsc/h6XVmJa9b4BUyS7l7qjFrRW2/U=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.class_lst</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VwIl37uwXbi4/MQCVa257j5mn1M3c3W7SeY0uEIJu7c=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.conv_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			19DC90MWHrf2hBRuUTd77wne5A3iVPdnvS6BeBlL/YI=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_ko_0.1.lstm_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Uj9W+Onm3FkN9xuqBR6gWpgGcegkwdrbS7Exjr9WM34=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1CI8I82O49PUmZ1OELsW7AuBGfiBLl5m5k6QfFUI8hs=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.conv_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Fr6fwMDJQpzDcU1dLoZixTvSjPADE3XiN9sojcjajV8=
+			</data>
+		</dict>
+		<key>KoreanOCRResources.bundle/tflite_script_detector_0.3.lstm_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IoGgFob5/5Fk8qEu10OBjiuOCvaufHMkCSTXA0LT8ss=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/Info.plist</key>
@@ -178,7 +354,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AD7PfdQvuywZNvFL/tK8oboRNF1Ov2li9qWE3VZvyCk=
+			0PmTcB06s0Zr7NCcgDqpilesx/p+/A0Fod2wbGAXFnw=
 			</data>
 		</dict>
 		<key>Modules/selphid_component.swiftmodule/arm64.swiftdoc</key>
@@ -199,14 +375,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AD7PfdQvuywZNvFL/tK8oboRNF1Ov2li9qWE3VZvyCk=
+			0PmTcB06s0Zr7NCcgDqpilesx/p+/A0Fod2wbGAXFnw=
 			</data>
 		</dict>
 		<key>fphi-selphid-widget-resources-selphid-1.0.zip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2W9O2zhdW259rvy20jOwS4jVXFIjzcTYEM++qaKBxq8=
+			8xDJRv8zLonNyo4higRMXpNJDfsNGjrV2aua7614J9c=
 			</data>
 		</dict>
 	</dict>

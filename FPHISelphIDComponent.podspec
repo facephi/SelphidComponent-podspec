@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FPHISelphIDComponent'
-  s.version          = '1.0.0'
+  s.version          = '1.0.3'
   s.summary          = 'A short description of selphid_component.'
 
 # This description is used to generate tags and improve search results.
