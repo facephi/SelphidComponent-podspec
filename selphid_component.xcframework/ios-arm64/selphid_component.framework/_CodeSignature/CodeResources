@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/selphid_component-Swift.h</key>
 		<data>
-		qNFxFSF+xMw26v8D/sdQ0hfok8o=
+		G3EYjZhGkh5YwKgJUYKaRQZQCHA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zjZT6NRcyhSdlznREEaCiB716II=
+		sgITMQvFg7kY3N+EylfGfiOHGS8=
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		LBi66gRVcwGoE5KgSyPRFvqUxwk=
+		JiRT+xjC7Sd7BzbKgnOkumNSoyE=
 		</data>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		A/w6lQB869EdqqG5XvyP6Q5aeak=
+		04qE+uL2JogTBTqGpsIwQ9imyR0=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -118,15 +118,27 @@
 		</data>
 		<key>Modules/selphid_component.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Kft2zihY/nf6GmjEFtv3IlG+Lxc=
+		P3a8aF8rnap5nzCqYSCjLnlTGRk=
 		</data>
 		<key>Modules/selphid_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ECcxE+yF2Td0nfS//ea7A+BJ8Lg=
+		8yfu7Hk2OZciMqQFXkcLmK21vE4=
 		</data>
 		<key>Modules/selphid_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		igkihZH2lvKKpnJl2QBGH9Px5Yw=
+		LfiP4ECCu8Kj2BDfn8dzJn3imCw=
+		</data>
+		<key>Modules/selphid_component.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		P3a8aF8rnap5nzCqYSCjLnlTGRk=
+		</data>
+		<key>Modules/selphid_component.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		8yfu7Hk2OZciMqQFXkcLmK21vE4=
+		</data>
+		<key>Modules/selphid_component.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		LfiP4ECCu8Kj2BDfn8dzJn3imCw=
 		</data>
 		<key>fphi-selphid-widget-resources-selphid-1.0.zip</key>
 		<data>
@@ -139,14 +151,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w/0IGwndm9BXMQh3xhR6TQOxj4fDWH17linot6w5H0A=
+			FA1KaLAM6Z7zzNiUjKi6lV/FX01TiLM/5CwFa0yU+3k=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PajS0Zs+JKk6j6aZ+dzMjFLTfTIt35X7M83TFSgi4JE=
+			g3Y6BWOKvUWSoFd4yggNZPg3iVGQaBWry/TSsd0QP3Q=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/region_proposal_text_detector_tflite_vertical.bincfg</key>
@@ -258,7 +270,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BxkHvgjHx1hmgypXektN3rHS0RqLCu3BIRoYRFEdB2w=
+			8J3cD+EOvqN50oumY7kDn0lgJI5z23HTMe12GQOqqQw=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -328,21 +340,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tO5BroF02DOsIOtYyN0uFxqjoGC/XtwJdNHn7/cMpH8=
+			fdQfJxxTOLnLd0Iqp00SzmI/zkfqTqukGDS6NDb9gp0=
 			</data>
 		</dict>
 		<key>Modules/selphid_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ayub0vJc/bxj+d20qm8K8lylOyxTUmp3DYkrth2tTg8=
+			ZyliBWqAe+MYb4SMi4isLIbu5rrWV7BhF5aRg3rue00=
 			</data>
 		</dict>
 		<key>Modules/selphid_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bd0Hm7gLJONfM5HzicVTCBonhy4VNWgVHi0Hcd5F5U8=
+			4GjCGZrSxt+X5Ll3HcREq0AW66BciKOu7qCd2M4ummw=
+			</data>
+		</dict>
+		<key>Modules/selphid_component.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fdQfJxxTOLnLd0Iqp00SzmI/zkfqTqukGDS6NDb9gp0=
+			</data>
+		</dict>
+		<key>Modules/selphid_component.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZyliBWqAe+MYb4SMi4isLIbu5rrWV7BhF5aRg3rue00=
+			</data>
+		</dict>
+		<key>Modules/selphid_component.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4GjCGZrSxt+X5Ll3HcREq0AW66BciKOu7qCd2M4ummw=
 			</data>
 		</dict>
 		<key>fphi-selphid-widget-resources-selphid-1.0.zip</key>
