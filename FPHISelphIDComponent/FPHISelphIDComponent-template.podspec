@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://www.facephi.com"
   spec.license = { :type => "Commercial", 
                    :text => <<-LICENSE
-                   © Facephi 2021. All rights reserved.
+                   © Facephi 2022. All rights reserved.
                 LICENSE
               }
 
