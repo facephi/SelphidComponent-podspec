@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/selphid_component-Swift.h</key>
 		<data>
-		Kepni8frMBIz8cyGV6lCy6zWRek=
+		G3EYjZhGkh5YwKgJUYKaRQZQCHA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cw5gmVaWHGMmbJoo3VSTjnXwkvw=
+		nrgIxHETtYfk7i3Xtf0L8W7CZsE=
 		</data>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<data>
-		bTz0KMTmm/9ZwRJa8Dd4Dkhu3AU=
+		v2bPwj+m+Delu32iL/HMjPsEQw4=
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		PsjTd0nXRjGRMJOR/PCzVNj0fpE=
+		+e6Dwu8duUz0W11Jpn8rXNy6wVM=
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		oLLL5AQhOdKbVDUfIrGVLP9VHR8=
+		zNNt3wz0NRkIQslWisk3PIBpWMI=
 		</data>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		J1Xwh5VUjhfpGv2nVgbjCnQgtkQ=
+		+REr8v559wlasUjKix2eelwTy4I=
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		Sczvkm2gFHTcP19IxC/JH11EFqs=
+		ZlCwoE8BFxxOVHn8miWmdDsgrdg=
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		agpRVFyaACHGNVur4KKfKynadrQ=
+		UQstVd5/bI+CrtvqUPwfBiaBzEA=
 		</data>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -156,29 +156,33 @@
 		<data>
 		4iU2WObiqKJbF25tXnz81+9SCAs=
 		</data>
-		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		BZ0qoPumTiVHTT7AwZzZWeunZls=
-		</data>
-		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		S6G5H4Kd18kO4k6QvuMpGR4T92A=
-		</data>
 		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		B5e1uu/CKZqNfs1aYQ3CQPll4SA=
+		W0uBYKfymo0jmsdVlHTDTwdMEsM=
 		</data>
 		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		S6G5H4Kd18kO4k6QvuMpGR4T92A=
+		XeO/8jsdbsLp1vIIPZdT+gYlxrY=
 		</data>
 		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e0gFyODUMhIUPMDIJaNOJUko3S0=
+		+s2+F13TXv8IqplMDU6qH6OJui4=
+		</data>
+		<key>Modules/selphid_component.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		W0uBYKfymo0jmsdVlHTDTwdMEsM=
+		</data>
+		<key>Modules/selphid_component.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		XeO/8jsdbsLp1vIIPZdT+gYlxrY=
+		</data>
+		<key>Modules/selphid_component.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		+s2+F13TXv8IqplMDU6qH6OJui4=
 		</data>
 		<key>fphi-selphid-widget-resources-selphid-1.0.zip</key>
 		<data>
-		CWSFFsq3qYPMJllohODRhSvuFt4=
+		kwCr/hoTNzieDtw9ZK8OlmnOWm4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -187,21 +191,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUzXI1zll1QrMUI2WKDoWaOQFCbgWIqNOIc2U/a66Hs=
+			FA1KaLAM6Z7zzNiUjKi6lV/FX01TiLM/5CwFa0yU+3k=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6HspCcduB3ErEekPAJQDv64RurlrgZJKwYo+3D0NHH8=
+			rCh8JaKSW1F2+c+7fWcokenk1KzXa/1PVsXhR3BcASo=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eYSclf3YyNuVG73bQm6e/iXnrTRN5B6pl+LNbrwTEzk=
+			sKrXK1uoB0JuEL3vUZxOBWKlR6CDUNMV/qUdNNlyZKA=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -215,7 +219,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JKK5BDbQoqfS4cNSUnfLbm97LfuJNiGovfugkK3z97w=
+			AwER09F5+QgMBOide81b+TE8L91axIMaViitbdM0Mxg=
 			</data>
 		</dict>
 		<key>KoreanOCRResources.bundle/_CodeSignature/CodeResources</key>
@@ -341,14 +345,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U5MgbOj+FQrOsBQSUXxh5ZkrHqeq4qBjN5M0j0FZvaE=
+			Hxt/VDv7C+yxc9HzP8QNjgAb+/Xv0ocgVY7w99kOY9A=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r3JovoS7XUmbzlvRx7x0xd598++Bz5WwqkWdB496kSs=
+			jC9n3t8m5kBB8jq2os12etJz08yjMLFWRoA2AoO3eK0=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -362,7 +366,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yrwbYP2ouHJrax5dwqk86Kzr7Gx7JxMunfJ0owlbZY4=
+			yoxJPhyQ423QmYos0NJMOIsbUUawsqqGqUEva9eWTVk=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
@@ -442,46 +446,53 @@
 			/WgFbj8drrTADs+wD/OELhroEeR234SZrl/XXVNr4y8=
 			</data>
 		</dict>
-		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TyFirfX1biPSKA47IiiEE+IIWfLLRzsanJm8j0PQOiU=
-			</data>
-		</dict>
-		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			B2bu5jqaoRg60ZMJSlPljLX8bAn0RrMNDIsy6mZSMnw=
-			</data>
-		</dict>
 		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mGUGN7zbA7WsSpTGVSOwky6IveZMvfPXa19ZCeslSe8=
+			hjn5Jc4NmAGkrKGg0Ukx2KRVLUBPpQAEV9975LR3sdg=
 			</data>
 		</dict>
 		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B2bu5jqaoRg60ZMJSlPljLX8bAn0RrMNDIsy6mZSMnw=
+			qaLRAwMJxw1fClrSldStoZ4/T9nv8nIxlEWeapZIUU0=
 			</data>
 		</dict>
 		<key>Modules/selphid_component.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dmiDhAHrDR8dofE/0J9VSiotVS8dwEa2Bl9Pbh3CvSA=
+			vinZmbvh254vb9P2tkfHzaeqOc4JkeBuxhRZ6lEzp5g=
+			</data>
+		</dict>
+		<key>Modules/selphid_component.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hjn5Jc4NmAGkrKGg0Ukx2KRVLUBPpQAEV9975LR3sdg=
+			</data>
+		</dict>
+		<key>Modules/selphid_component.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qaLRAwMJxw1fClrSldStoZ4/T9nv8nIxlEWeapZIUU0=
+			</data>
+		</dict>
+		<key>Modules/selphid_component.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vinZmbvh254vb9P2tkfHzaeqOc4JkeBuxhRZ6lEzp5g=
 			</data>
 		</dict>
 		<key>fphi-selphid-widget-resources-selphid-1.0.zip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MAz8rgJfkHELcgvJ7XMVHtdyESJDubvqcrgzDHD6eZs=
+			fWxBQlRjjmbIXsDjhjuaWaaY2ygjsKKY5yvZIeivP7I=
 			</data>
 		</dict>
 	</dict>
