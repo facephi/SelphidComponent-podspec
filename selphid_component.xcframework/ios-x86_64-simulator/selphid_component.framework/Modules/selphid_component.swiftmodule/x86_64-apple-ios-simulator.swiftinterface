@@ -15,17 +15,13 @@ public class SelphIDController : core.IWidgetController<core.SelphIDConfiguratio
   @objc deinit
 }
 extension selphid_component.SelphIDController : core.ISelphIDController {
+  public func extraData(trackingEnvironmentData: core.EnvironmentTrackingData, trackingConfigurationData: core.TrackingConfigurationData) -> Swift.String
   public func tokenize(data: Swift.String) -> Swift.String
 }
 extension selphid_component.SelphIDController : FPhiSelphIDWidgetiOS.FPhiSelphIDWidgetProtocol {
-  @available(iOS 13.0, *)
   @objc dynamic public func captureFinished()
-  @available(iOS 13.0, *)
   @objc dynamic public func captureCancelled()
-  @available(iOS 13.0, *)
   @objc dynamic public func captureTimeout()
-  @available(iOS 13.0, *)
   @objc dynamic public func captureFailed(_ error: Swift.Error!)
-  @available(iOS 13.0, *)
   @objc dynamic public func onEvent(_ time: Foundation.Date!, type: Swift.String!, info: Swift.String!)
 }
